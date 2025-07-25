@@ -1,0 +1,18 @@
+{
+    "id": 69491632,
+    "name": "Crowd Control",
+    "author": "Movietheaters",
+    "creators": ["Deadlox &amp; more"],
+    "verifier": "dexorR",
+    "verification": "https://www.youtube.com/watch?v=Dr5gR920NFw",
+    "percentToQualify": 56,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
